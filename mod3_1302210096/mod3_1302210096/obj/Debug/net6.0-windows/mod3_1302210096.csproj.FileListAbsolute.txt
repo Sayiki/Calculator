@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\bin\Debug\net6.0-windows\mod3_1302210096.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\bin\Debug\net6.0-windows\mod3_1302210096.deps.json
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\bin\Debug\net6.0-windows\mod3_1302210096.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\bin\Debug\net6.0-windows\mod3_1302210096.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\bin\Debug\net6.0-windows\mod3_1302210096.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.Form1.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\refint\mod3_1302210096.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\mod3_1302210096.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\Calculator\mod3_1302210096\mod3_1302210096\obj\Debug\net6.0-windows\ref\mod3_1302210096.dll
